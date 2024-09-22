@@ -33,11 +33,12 @@ Hi, I'm Akash, a final-year B.Tech Computer Science and Engineering student at S
 ### 📈 GitHub Stats:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashgh003&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashgh003&theme=radical" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akash003&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash003&theme=radical" alt="GitHub Streak Stats" width="48%" />
 </div>
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=akashgh003&theme=redical)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=akash003&theme=redical)
+
 
 ---
 
