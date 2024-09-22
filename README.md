@@ -9,9 +9,11 @@ Hi, I'm Akash, a final-year B.Tech Computer Science and Engineering student at S
 ---
 
 ### 🔗 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/akash-ghosh-7b6b7127a)
-- [LeetCode](https://leetcode.com/u/akashghosh19062003/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/akash_gh/)
+
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <a href="https://www.linkedin.com/in/akash-ghosh-7b6b7127a" style="text-decoration: none; padding: 10px; border: 2px solid #0077b5; border-radius: 5px; color: #0077b5; font-weight: bold;">LinkedIn</a>
+  <a href="mailto:akashghosh1906@gmail.com" style="text-decoration: none; padding: 10px; border: 2px solid #D44638; border-radius: 5px; color: #D44638; font-weight: bold;">Email</a>
+</div>
 
 ---
 
