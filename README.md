@@ -4,7 +4,7 @@
 # Hi, I'm Akash! 👋  
 ### A Web Developer in making 🚀
 
-I'm a **Full-stack Developer** with expertise in **Machine Learning** and **DevOps**. I enjoy solving problems on LeetCode and GeeksforGeeks while learning new technologies in front-end development.
+Hi, I'm Akash, a final-year B.Tech Computer Science and Engineering student at SRM University AP. Over the course of my studies, I’ve developed a strong foundation in various domains, including machine learning, front-end development, and DevOps. My projects have helped me gain practical experience with tools like Python, React, JavaScript, and Angular on the development side, as well as DevOps practices to streamline workflows. I’m passionate about solving problems, working on innovative projects, and continuously learning new technologies to improve my skill set. Let’s connect and collaborate!
 
 ---
 
@@ -12,13 +12,6 @@ I'm a **Full-stack Developer** with expertise in **Machine Learning** and **DevO
 - [LinkedIn](https://www.linkedin.com/in/akash-ghosh-7b6b7127a)
 - [LeetCode](https://leetcode.com/u/akashghosh19062003/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/user/akash_gh/)
-
----
-
-### 🛠️ Domains I work in:
-- **Machine Learning** 🤖
-- **Front-End Development** 🎨
-- **DevOps** ⚙️
 
 ---
 
