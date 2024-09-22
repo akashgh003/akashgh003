@@ -39,9 +39,3 @@ Hi, I'm Akash, a final-year B.Tech Computer Science and Engineering student at S
 
 ---
 
-### 🧑‍💻 A little more about me:
-- 🔭 I’m currently working on **Machine Learning Projects**.
-- 🌱 I’m learning **Kubernetes** and **React**.
-- ⚡ Fun fact: I love solving **coding challenges** and contributing to open-source projects!
-
-Feel free to connect with me on any of the platforms mentioned above, or take a look at my repositories to see what I’m currently working on!
