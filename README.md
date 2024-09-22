@@ -37,7 +37,7 @@ Hi, I'm Akash, a final-year B.Tech Computer Science and Engineering student at S
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashgh003&theme=radical" alt="GitHub Streak Stats" width="48%" />
 </div>
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=akashghosh1906&theme=redical)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=akashgh003&theme=redical)
 
 ---
 
