@@ -10,9 +10,13 @@ Hi, I'm Akash, a final-year B.Tech Computer Science and Engineering student at S
 
 ### 🔗 Connect with me:
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <a href="https://www.linkedin.com/in/akash-ghosh-7b6b7127a" style="text-decoration: none; padding: 10px; border: 2px solid #0077b5; border-radius: 5px; color: #0077b5; font-weight: bold;">LinkedIn</a>
-  <a href="mailto:akashghosh1906@gmail.com" style="text-decoration: none; padding: 10px; border: 2px solid #D44638; border-radius: 5px; color: #D44638; font-weight: bold;">Email</a>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/akash-ghosh-7b6b7127a" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="mailto:akashghosh1906@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
 </div>
 
 ---
