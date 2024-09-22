@@ -16,9 +16,11 @@ Hi, I'm Akash, a final-year B.Tech Computer Science and Engineering student at S
 ---
 
 ### 📊 Coding Profiles:
-- ![LeetCode Stats](https://leetcard.jacoblin.cool/akashghosh19062003?theme=dark)
-- ![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=akash_gh)
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://leetcard.jacoblin.cool/akashghosh19062003?theme=dark" alt="LeetCode Stats" width="48%" />
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=akash_gh" alt="GFG Stats" width="48%" />
+</div>
 
 ---
 
