@@ -2,7 +2,7 @@
 ![Banner](https://drive.google.com/uc?export=view&id=1AglJzeRiwOxeeOcrCxad1NKSUyvpAjxH)
 
 # Hi, I'm Akash! 👋  
-### A Web Developer in making 🚀
+### A Software Developer in making 🚀
 
 Hi, I'm Akash, a final-year B.Tech Computer Science and Engineering student at SRM University AP. Over the course of my studies, I’ve developed a strong foundation in various domains, including machine learning, front-end development, and DevOps. My projects have helped me gain practical experience with tools like Python, React, JavaScript, and Angular on the development side, as well as DevOps practices to streamline workflows. I’m passionate about solving problems, working on innovative projects, and continuously learning new technologies to improve my skill set. Let’s connect and collaborate!
 
